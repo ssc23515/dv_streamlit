@@ -10,6 +10,6 @@ st.set_page_config( #페이지 설정
  menu_items={
   'Get help': "https://docs.streamlit.io", # URL만
   'Report a bug': "https://streamlit.io", #URL만
-  'About': "## 하정훈 교수"
+  'About': "## 하정훈 교수 \n -[https://ie.hongik.ac.kr/ie/0201.do?mode=view&deptCd=AAB530&S1=2006&S2=10077]"
  }
 )
